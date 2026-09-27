@@ -3,8 +3,11 @@ __pycache__/
 *.egg-info/
 build/
 dist/
+temp_auto_push.bat
 .venv/
 *.db
 *.db-wal
 *.db-shm
 .coverage
+.gitignore
+branch_structure.json
